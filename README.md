@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Walmart OpsKit
+> Find out everything you need to know to reliably scrape Walmart with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/walmart)
+
+This kit provides the blueprint for Walmart scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-walmart-scrapers)
 - [Scrapers By Language](#walmart-scrapers-by-language)
@@ -36,39 +47,38 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-walmart-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [Wired-Coupon-Scraper](https://github.com/Prem-ium/Wired-Coupon-Scraper) ![img](https://github.com/Prem-ium.png?size=20) | python | ⭐ 30 | ✅ Yes | 2025-04-03 | ✅ |
-| [walmart-coupons](https://github.com/scrapehero/walmart-coupons) ![img](https://github.com/scrapehero.png?size=20) | python | ⭐ 14 | ✅ Yes | 2018-03-21 | ✅ |
-| [TS-Walmart-Scraper](https://github.com/eneiromatos/TS-Walmart-Scraper) ![img](https://github.com/eneiromatos.png?size=20) | typescript | ⭐ 13 | ✅ Yes | 2023-03-06 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [Wired-Coupon-Scraper](https://github.com/Prem-ium/Wired-Coupon-Scraper) ![img](https://github.com/Prem-ium.png?size=20) | python | ⭐ 30 | ✅ Yes | 2025-04-03 |
+| [walmart-coupons](https://github.com/scrapehero/walmart-coupons) ![img](https://github.com/scrapehero.png?size=20) | python | ⭐ 14 | ❌ No | 2018-03-21 |
+| [TS-Walmart-Scraper](https://github.com/eneiromatos/TS-Walmart-Scraper) ![img](https://github.com/eneiromatos.png?size=20) | typescript | ⭐ 13 | ❌ No | 2023-03-06 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Walmart Scrapers By Language <a id="walmart-scrapers-by-language"></a>
-
-### Java
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [walmart-scraper](https://github.com/oxylabs/walmart-scraper) | ⭐ 4 | 2025-02-11 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Wired-Coupon-Scraper](https://github.com/Prem-ium/Wired-Coupon-Scraper) | ⭐ 30 | 2025-04-03 | immediate | ✅ Yes |
+| [walmart-coupons](https://github.com/scrapehero/walmart-coupons) | ⭐ 14 | 2018-03-21 | immediate | ❌ No |
+| [walmart-python-scrapy-scraper](https://github.com/python-scrapy-playbook/walmart-python-scrapy-scraper) | ⭐ 11 | 2022-10-20 | immediate | ❌ No |
+| [walmart_store_locator](https://github.com/scrapehero/walmart_store_locator) | ⭐ 7 | 2018-03-15 | immediate | ❌ No |
+| [walmart_scraper](https://github.com/sebaskun/walmart_scraper) | ⭐ 4 | 2022-11-04 | beginner | ❌ No |
+| [walmart-scraper](https://github.com/devwojtek/walmart-scraper) | ⭐ 0 | 2021-08-17 | immediate | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [TS-Walmart-Scraper](https://github.com/eneiromatos/TS-Walmart-Scraper) | ⭐ 13 | 2023-03-06 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [TS-Walmart-Scraper](https://github.com/eneiromatos/TS-Walmart-Scraper) | ⭐ 13 | 2023-03-06 | immediate | ❌ No |
 
 
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Wired-Coupon-Scraper](https://github.com/Prem-ium/Wired-Coupon-Scraper) | ⭐ 30 | 2025-04-03 | — | ✅ Yes |
-| [walmart-coupons](https://github.com/scrapehero/walmart-coupons) | ⭐ 14 | 2018-03-21 | — | ✅ Yes |
-| [walmart-python-scrapy-scraper](https://github.com/python-scrapy-playbook/walmart-python-scrapy-scraper) | ⭐ 11 | 2022-10-20 | — | ✅ Yes |
-| [walmart_store_locator](https://github.com/scrapehero/walmart_store_locator) | ⭐ 7 | 2018-03-15 | — | ✅ Yes |
-| [walmart_scraper](https://github.com/sebaskun/walmart_scraper) | ⭐ 4 | 2022-11-04 | — | ✅ Yes |
-| [walmart-scraper](https://github.com/devwojtek/walmart-scraper) | ⭐ 0 | 2021-08-17 | — | ✅ Yes |
+### Java
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [walmart-scraper](https://github.com/oxylabs/walmart-scraper) | ⭐ 4 | 2025-02-11 | immediate | ✅ Yes |
 
 ---
 
@@ -99,7 +109,7 @@ Know a Walmart scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
